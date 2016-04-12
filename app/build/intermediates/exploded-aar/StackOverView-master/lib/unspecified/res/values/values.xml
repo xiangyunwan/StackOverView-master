@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <array name="batterymeter_bolt_points">
+        <item>73</item> <item>0</item>
+        <item>392</item><item>0</item>
+        <item>201</item><item>259</item>
+        <item>442</item><item>259</item>
+        <item>4</item>  <item>703</item>
+        <item>157</item><item>334</item>
+        <item>0</item>  <item>334</item>
+    </array>
+    <array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </array>
+    <array name="batterymeter_color_values">
+        <item>#FFFFFFFF</item>
+    </array>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr name="orientation">
+        <enum name="horizontal" value="0"/>
+        <enum name="vertical" value="1"/>
+    </attr>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="config_enableLockScreenRotation" type="bool">@*android:bool/config_enableLockScreenRotation</item>
+    <item name="config_enableLockScreenTranslucentDecor" type="bool">true</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/bools.xml -->
+    <eat-comment/>
+    <bool name="kg_center_small_widgets_vertically">false</bool>
+    <bool name="kg_enable_camera_default_widget">true</bool>
+    <bool name="kg_show_ime_at_screen_on">true</bool>
+    <bool name="kg_top_align_page_shrink_on_bouncer_visible">true</bool>
+    <bool name="kg_use_all_caps">true</bool>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/config.xml -->
+    <eat-comment/>
+    <bool name="recents_has_transposed_nav_bar">true</bool>
+    <bool name="recents_has_transposed_search_bar">true</bool>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="batterymeter_bolt_color">#FFFFFFFF</color>
+    <color name="batterymeter_charge_color">#FFFFFFFF</color>
+    <color name="batterymeter_frame_color">#66FFFFFF</color>
+    <color name="current_user_border_color">@color/system_accent_color</color>
+    <color name="data_usage_graph_track">#33FFFFFF</color>
+    <color name="data_usage_graph_warning">#FFFFFFFF</color>
+    <color name="data_usage_secondary">#99FFFFFF</color>
+    <color name="doze_small_icon_background_color">#ff434343</color>
+    <color name="fake_shadow_end_color">#03000000</color>
+    <color name="fake_shadow_start_color">#44000000</color>
+    <color name="keyguard_affordance">#ffffffff</color>
+    <color name="keyguard_overflow_content_color">#ff686868</color>
+    <color name="keyguard_user_switcher_background_gradient_color">#77000000</color>
+    <color name="navigation_bar_icon_color">#E5FFFFFF</color>
+    <color name="notification_guts_bg_color">@color/system_secondary_color</color>
+    <color name="notification_guts_btn_color">#FFFFFFFF</color>
+    <color name="notification_guts_text_color">#b2FFFFFF</color>
+    <color name="notification_guts_title_color">#FFFFFFFF</color>
+    <color name="notification_legacy_background_color">#ff1a1a1a</color>
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="notification_material_background_color">#fffafafa</color>
+    <color name="notification_material_background_dimmed_color">#d4ffffff</color>
+    <color name="notification_material_background_low_priority_color">#ffe0e0e0</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="notification_panel_solid_background">#ff000000</color>
+    <color name="notification_ripple_color_low_priority">#30000000</color>
+    <color name="notification_ripple_tinted_color">#30ffffff</color>
+    <color name="notification_ripple_untinted_color">#28000000</color>
+    <color name="qs_batterymeter_frame_color">#FF404040</color>
+    <color name="qs_detail_empty">#24B0BEC5</color>
+    <color name="qs_detail_progress_track">#99009688</color>
+    <color name="qs_detail_transition">#66FFFFFF</color>
+    <color name="qs_subhead">#99FFFFFF</color>
+    <color name="qs_text">#FFFFFFFF</color>
+    <color name="qs_tile_divider">#29ffffff</color>
+    <color name="qs_tile_text">#B3FFFFFF</color>
+    <color name="qs_user_detail_icon_muted">#FFFFFFFF</color>
+    <color name="recents_task_bar_dark_dismiss_color">#99000000</color>
+    <color name="recents_task_bar_dark_text_color">#cc000000</color>
+    <color name="recents_task_bar_default_background_color">#ffe6e6e6</color>
+    <color name="recents_task_bar_highlight_color">#28ffffff</color>
+    <color name="recents_task_bar_light_dismiss_color">#ffeeeeee</color>
+    <color name="recents_task_bar_light_text_color">#ffeeeeee</color>
+    <color name="recents_task_view_lock_to_app_button_background_color">#ffe6e6e6</color>
+    <color name="recents_task_view_lock_to_app_button_color">#ff666666</color>
+    <color name="search_panel_circle_color">#ffffff</color>
+    <color name="search_panel_ripple_color">#ffbbbbbb</color>
+    <color name="segmented_button_text_inactive">#99afbdc4</color>
+    <color name="status_bar_clock_color">#FFFFFFFF</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="system_accent_color">#ff80CBC4</color>
+    <color name="system_bar_background_opaque">#ff000000</color>
+    <color name="system_bar_background_semi_transparent">#66000000</color>
+    <color name="system_bar_background_transparent">#00000000</color>
+    <color name="system_primary_color">#ff263238</color>
+    <color name="system_secondary_color">#ff384248</color>
+    <color name="system_warning_color">#fff4511e</color>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="transparent" type="color">@android:color/transparent</item>
+    <declare-styleable name="BatteryMeterView"><attr format="color" name="frameColor"/></declare-styleable>
+    <declare-styleable name="Clock"><attr format="enum" name="amPmStyle"><enum name="normal" value="0"/><enum name="small" value="1"/><enum name="gone" value="2"/></attr></declare-styleable>
+    <declare-styleable name="DateView"><attr format="string" name="datePattern"/></declare-styleable>
+    <declare-styleable name="DeadZone"><attr format="dimension" name="minSize"/><attr format="dimension" name="maxSize"/><attr format="integer" name="holdTime"/><attr format="integer" name="decayTime"/><attr name="orientation"/></declare-styleable>
+    <declare-styleable name="KeyButtonView"><attr format="integer" name="keyCode"/><attr format="boolean" name="keyRepeat"/></declare-styleable>
+    <declare-styleable name="NotificationLinearLayout"><attr format="dimension" name="insetLeft"/></declare-styleable>
+    <declare-styleable name="NotificationRowLayout"><attr format="dimension" name="rowHeight"/></declare-styleable>
+    <declare-styleable name="PseudoGridView"><attr format="integer" name="numColumns"/><attr format="dimension" name="verticalSpacing"/><attr format="dimension" name="horizontalSpacing"/></declare-styleable>
+    <declare-styleable name="RecentsPanelView"><attr format="reference" name="recentItemLayout"/></declare-styleable>
+    <declare-styleable name="ToggleSlider"><attr format="string" name="text"/></declare-styleable>
+    <declare-styleable name="UserAvatarView"><attr format="dimension" name="frameWidth"/><attr format="dimension" name="framePadding"/><attr format="color" name="activeFrameColor"/><attr name="frameColor"/></declare-styleable>
+    <declare-styleable name="UserDetailItemView"><attr format="string" name="regularFontFamily"/><attr format="string" name="activatedFontFamily"/></declare-styleable>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="G">30dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="battery_level_padding_end">2dp</dimen>
+    <dimen name="battery_level_text_size">12sp</dimen>
+    <dimen name="battery_margin_bottom">0dp</dimen>
+    <dimen name="blinds_pop_threshold">0dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="boost_dv">550dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bottom_stack_peek_amount">12dp</dimen>
+    <dimen name="bottom_stack_slow_down_length">12dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="building_height_min">20dp</dimen>
+    <dimen name="building_width_max">250dp</dimen>
+    <dimen name="building_width_min">20dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="carrier_label_height">24dp</dimen>
+    <dimen name="clear_all_padding_top">12dp</dimen>
+    <dimen name="clock_collapsed_bottom_margin">10dp</dimen>
+    <dimen name="clock_collapsed_bottom_margin_large_text">6dp</dimen>
+    <dimen name="clock_expanded_bottom_margin">20dp</dimen>
+    <dimen name="close_handle_height">36dp</dimen>
+    <dimen name="close_handle_underlap">32dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="cloud_size_max">100dp</dimen>
+    <dimen name="cloud_size_min">10dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="data_usage_graph_marker_width">4dp</dimen>
+    <dimen name="dessert_case_cell_size">192dp</dimen>
+    <dimen name="edge_tap_area_width">48dp</dimen>
+    <dimen name="fake_shadow_inset">1dp</dimen>
+    <dimen name="fake_shadow_size">8dp</dimen>
+    <dimen name="global_screenshot_bg_padding">20dp</dimen>
+    <dimen name="glowpadview_glow_radius">75dip</dimen>
+    <dimen name="glowpadview_inner_radius">15dip</dimen>
+    <dimen name="go_to_full_shade_appearing_translation">200dp</dimen>
+    <dimen name="header_battery_margin_expanded">6dp</dimen>
+    <dimen name="header_battery_margin_keyguard">6dp</dimen>
+    <dimen name="header_notifications_collide_distance">48dp</dimen>
+    <dimen name="heads_up_window_height">250dp</dimen>
+    <dimen name="hint_chevron_circle_padding">16dp</dimen>
+    <dimen name="hint_grow_amount_sideways">60dp</dimen>
+    <dimen name="hint_move_distance">75dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="hud_z">35dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="key_button_ripple_max_width">95dp</dimen>
+    <dimen name="keyguard_affordance_height">56dp</dimen>
+    <dimen name="keyguard_affordance_icon_height">24dp</dimen>
+    <dimen name="keyguard_affordance_icon_width">24dp</dimen>
+    <dimen name="keyguard_affordance_min_background_radius">30dp</dimen>
+    <dimen name="keyguard_affordance_width">56dp</dimen>
+    <dimen name="keyguard_carrier_text_margin">16dp</dimen>
+    <dimen name="keyguard_clock_notifications_margin_max">36dp</dimen>
+    <dimen name="keyguard_clock_notifications_margin_min">24dp</dimen>
+    <dimen name="keyguard_drag_down_min_distance">100dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">65dp</dimen>
+    <dimen name="keyguard_min_swipe_amount">90dp</dimen>
+    <dimen name="keyguard_user_switcher_border_thickness">2dp</dimen>
+    <dimen name="match_parent">-1px</dimen>
+    <dimen name="max_avatar_size">48dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="max_v">1000dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="min_stack_height">84dp</dimen>
+    <dimen name="min_top_overscroll_to_qs">36dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="moon_size">30dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="multi_user_avatar_collapsed_size">22dp</dimen>
+    <dimen name="multi_user_avatar_keyguard_size">22dp</dimen>
+    <dimen name="multi_user_switch_collapsed_margin">13dp</dimen>
+    <dimen name="multi_user_switch_expanded_margin">8dp</dimen>
+    <dimen name="multi_user_switch_keyguard_margin">3dp</dimen>
+    <dimen name="multi_user_switch_width_collapsed">34dp</dimen>
+    <dimen name="multi_user_switch_width_expanded">48dp</dimen>
+    <dimen name="multi_user_switch_width_keyguard">34dp</dimen>
+    <dimen name="navbar_search_outerring_diameter">340dp</dimen>
+    <dimen name="navbar_search_outerring_radius">170dp</dimen>
+    <dimen name="navbar_search_panel_height">230dip</dimen>
+    <dimen name="navbar_search_snap_margin">40dip</dimen>
+    <dimen name="navigation_bar_deadzone_size">12dp</dimen>
+    <dimen name="navigation_bar_deadzone_size_max">32dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/internal.xml -->
+    <eat-comment/>
+    <dimen name="navigation_bar_height">@*android:dimen/navigation_bar_height</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="navigation_bar_size">@*android:dimen/navigation_bar_height</dimen>
+    <dimen name="navigation_extra_key_width">40dip</dimen>
+    <dimen name="navigation_key_width">80dip</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/missing.xml -->
+    <eat-comment/>
+    <dimen name="notification_badge_size">25dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="notification_collapse_second_card_padding">8dp</dimen>
+    <dimen name="notification_divider_height">2dp</dimen>
+    <dimen name="notification_material_rounded_rect_radius">2dp</dimen>
+    <dimen name="notification_max_height">256dp</dimen>
+    <dimen name="notification_mid_height">128dp</dimen>
+    <dimen name="notification_min_height">64dp</dimen>
+    <dimen name="notification_padding">4dp</dimen>
+    <dimen name="notification_padding_dimmed">0dp</dimen>
+    <item name="notification_panel_min_height_frac" type="dimen">0%</item>
+    <dimen name="notification_panel_width">@dimen/match_parent</dimen>
+    <dimen name="notification_scrim_wait_distance">100dp</dimen>
+    <dimen name="notification_side_padding">8dp</dimen>
+    <dimen name="notification_summary_height">44dp</dimen>
+    <dimen name="notifications_top_padding">8dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="obstacle_gap">170dp</dimen>
+    <dimen name="obstacle_height_min">40dp</dimen>
+    <dimen name="obstacle_spacing">380dp</dimen>
+    <dimen name="obstacle_stem_width">12dp</dimen>
+    <dimen name="obstacle_width">90dp</dimen>
+    <dimen name="obstacle_z">18dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="one_finger_pop_limit">0dp</dimen>
+    <dimen name="peek_window_y_offset">-12dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="player_hit_size">40dp</dimen>
+    <dimen name="player_size">40dp</dimen>
+    <dimen name="player_z">18dp</dimen>
+    <dimen name="player_z_boost">20dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="pull_span_min">25dp</dimen>
+    <dimen name="qs_brightness_padding_top">6dp</dimen>
+    <dimen name="qs_data_usage_text_size">14sp</dimen>
+    <dimen name="qs_data_usage_usage_text_size">36sp</dimen>
+    <dimen name="qs_date_collapsed_size">14sp</dimen>
+    <dimen name="qs_detail_button_text_size">14sp</dimen>
+    <dimen name="qs_detail_empty_text_size">14sp</dimen>
+    <dimen name="qs_detail_header_text_size">20sp</dimen>
+    <dimen name="qs_detail_item_height">48dp</dimen>
+    <dimen name="qs_detail_item_height_twoline">72dp</dimen>
+    <dimen name="qs_detail_item_primary_text_size">16sp</dimen>
+    <dimen name="qs_detail_item_secondary_text_size">14sp</dimen>
+    <dimen name="qs_dual_tile_height">112dp</dimen>
+    <dimen name="qs_dual_tile_padding_horizontal">6dp</dimen>
+    <dimen name="qs_dual_tile_padding_vertical">8dp</dimen>
+    <dimen name="qs_emergency_calls_only_text_size">12sp</dimen>
+    <dimen name="qs_falsing_threshold">40dp</dimen>
+    <dimen name="qs_panel_padding">16dp</dimen>
+    <dimen name="qs_panel_padding_bottom">8dp</dimen>
+    <dimen name="qs_peek_height">8dp</dimen>
+    <dimen name="qs_tile_divider_height">1dp</dimen>
+    <dimen name="qs_tile_height">88dp</dimen>
+    <dimen name="qs_tile_icon_size">28dp</dimen>
+    <dimen name="qs_tile_padding_below_icon">12dp</dimen>
+    <dimen name="qs_tile_padding_bottom">16dp</dimen>
+    <dimen name="qs_tile_padding_top">14dp</dimen>
+    <dimen name="qs_tile_padding_top_large_text">4dp</dimen>
+    <dimen name="qs_tile_spacing">4dp</dimen>
+    <dimen name="qs_tile_text_size">12sp</dimen>
+    <dimen name="qs_time_collapsed_size">14sp</dimen>
+    <dimen name="qs_time_expanded_size">20sp</dimen>
+    <dimen name="recents_animation_movement_in_dps_per_second">800dp</dimen>
+    <dimen name="recents_search_bar_space_height">64dp</dimen>
+    <item format="float" name="recents_stack_overscroll_percentage" type="dimen">0.0875</item>
+    <dimen name="recents_stack_top_padding">16dp</dimen>
+    <item format="float" name="recents_stack_width_padding_percentage" type="dimen">0.04444</item>
+    <item format="float" name="recents_task_affiliation_color_min_alpha_percentage" type="dimen">0.6</item>
+    <dimen name="recents_task_bar_height">56dp</dimen>
+    <dimen name="recents_task_view_affiliate_group_enter_offset">64dp</dimen>
+    <dimen name="recents_task_view_application_icon_size">48dp</dimen>
+    <dimen name="recents_task_view_highlight">1.5dp</dimen>
+    <dimen name="recents_task_view_lock_to_app_button_height">48dp</dimen>
+    <dimen name="recents_task_view_remove_anim_translation_x">100dp</dimen>
+    <dimen name="recents_task_view_rounded_corners_radius">2dp</dimen>
+    <item format="float" name="recents_task_view_thumbnail_alpha" type="dimen">0.9</item>
+    <dimen name="recents_task_view_z_max">80dp</dimen>
+    <dimen name="recents_task_view_z_min">20dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="scenery_z">6dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="search_panel_circle_base_margin">80dp</dimen>
+    <dimen name="search_panel_circle_elevation">12dp</dimen>
+    <dimen name="search_panel_circle_size">88dp</dimen>
+    <dimen name="search_panel_circle_travel_distance">80dp</dimen>
+    <dimen name="search_panel_scrim_height">250dp</dimen>
+    <dimen name="search_panel_threshold">100dp</dimen>
+    <dimen name="segmented_button_radius">2dp</dimen>
+    <dimen name="segmented_button_spacing">4dp</dimen>
+    <dimen name="speed_bump_height">16dp</dimen>
+    <dimen name="standard_notification_panel_width">416dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="star_size_max">5dp</dimen>
+    <dimen name="star_size_min">3dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="status_bar_clock_size">14sp</dimen>
+    <dimen name="status_bar_edge_ignore">5dp</dimen>
+    <dimen name="status_bar_header_height">60dp</dimen>
+    <dimen name="status_bar_header_height_expanded">116dp</dimen>
+    <dimen name="status_bar_header_height_keyguard">40dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/internal.xml -->
+    <eat-comment/>
+    <dimen name="status_bar_height">@*android:dimen/status_bar_height</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <item name="status_bar_icon_drawing_alpha" type="dimen">90%</item>
+    <dimen name="status_bar_icon_drawing_size">17dip</dimen>
+    <dimen name="status_bar_icon_padding">0dp</dimen>
+    <dimen name="status_bar_icon_size">@*android:dimen/status_bar_icon_size</dimen>
+    <dimen name="status_bar_recents_app_description_text_size">14dip</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">0dp</dimen>
+    <dimen name="status_bar_recents_app_icon_max_height">48dp</dimen>
+    <dimen name="status_bar_recents_app_icon_max_width">48dp</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8dp</dimen>
+    <dimen name="status_bar_recents_app_icon_translate_distance">35dip</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">0dip</dimen>
+    <dimen name="status_bar_recents_app_label_text_size">14dip</dimen>
+    <dimen name="status_bar_recents_app_label_width">88dip</dimen>
+    <dimen name="status_bar_recents_item_padding">0dip</dimen>
+    <dimen name="status_bar_recents_right_glow_margin">100dip</dimen>
+    <dimen name="status_bar_recents_scroll_fading_edge_length">10dip</dimen>
+    <dimen name="status_bar_recents_text_description_padding">8dp</dimen>
+    <dimen name="status_bar_recents_text_fading_edge_length">20dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_bg_padding">4dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_height">145dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">20dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_width">164dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="sun_size">45dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="swipe_helper_falsing_threshold">70dp</dimen>
+    <dimen name="system_icons_keyguard_padding_end">4dp</dimen>
+    <dimen name="system_icons_switcher_hidden_expanded_margin">16dp</dimen>
+    <dimen name="top_stack_peek_amount">12dp</dimen>
+    <dimen name="top_stack_slow_down_length">12dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_config.xml -->
+    <eat-comment/>
+    <dimen name="translation_per_sec">100dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="trust_circle_inner_radius_enter">18dp</dimen>
+    <dimen name="trust_circle_inner_radius_exit">38dp</dimen>
+    <dimen name="trust_circle_inner_radius_visible_max">24dp</dimen>
+    <dimen name="trust_circle_inner_radius_visible_min">22dp</dimen>
+    <dimen name="trust_circle_thickness">2dp</dimen>
+    <dimen name="unlock_falsing_threshold">80dp</dimen>
+    <dimen name="unlock_move_distance">75dp</dimen>
+    <dimen name="volume_panel_top">0dp</dimen>
+    <dimen name="volume_panel_width">344dp</dimen>
+    <dimen name="volume_panel_z">3dp</dimen>
+    <dimen name="wide_type_icon_start_padding">2dp</dimen>
+    <dimen name="wide_type_icon_start_padding_qs">3dp</dimen>
+    <dimen name="z_distance_between_notifications">1dp</dimen>
+    <dimen name="zen_mode_condition_detail_button_padding">8dp</dimen>
+    <dimen name="zen_toast_width">224dp</dimen>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="heads_up_notification_bg_pressed">#ff33B5E5</drawable>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="ic_contact_picture" type="drawable">@*android:drawable/ic_contact_picture</item>
+    <item name="ic_media_pause" type="drawable">@android:drawable/ic_media_pause</item>
+    <item name="ic_media_stop" type="drawable">@*android:drawable/ic_media_stop</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="notification_number_text_color">#ffffffff</drawable>
+    <drawable name="recents_callout_line">#99ffffff</drawable>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="stat_sys_warning" type="drawable">@android:drawable/stat_sys_warning</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="status_bar_notification_row_background_color">#ff090909</drawable>
+    <drawable name="status_bar_recents_app_thumbnail_background">#88000000</drawable>
+    <drawable name="system_bar_background">@color/system_bar_background_opaque</drawable>
+    <drawable name="ticker_background_color">#ff1d1d1d</drawable>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <fraction name="battery_button_height_fraction">10.5%</fraction>
+    <fraction name="battery_subpixel_smoothing_left">0%</fraction>
+    <fraction name="battery_subpixel_smoothing_right">0%</fraction>
+    <fraction name="keyguard_clock_y_fraction_max">32.5%</fraction>
+    <fraction name="keyguard_clock_y_fraction_min">19.8%</fraction>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="alpha_animator_end_value_tag" type="id"/>
+    <item name="alpha_animator_start_value_tag" type="id"/>
+    <item name="alpha_animator_tag" type="id"/>
+    <item name="doze_saved_filter_tag" type="id"/>
+    <item name="height_animator_end_value_tag" type="id"/>
+    <item name="height_animator_start_value_tag" type="id"/>
+    <item name="height_animator_tag" type="id"/>
+    <item name="scale_animator_end_value_tag" type="id"/>
+    <item name="scale_animator_start_value_tag" type="id"/>
+    <item name="scale_animator_tag" type="id"/>
+    <item name="top_inset_animator_end_value_tag" type="id"/>
+    <item name="top_inset_animator_start_value_tag" type="id"/>
+    <item name="top_inset_animator_tag" type="id"/>
+    <item name="translation_y_animator_end_value_tag" type="id"/>
+    <item name="translation_y_animator_start_value_tag" type="id"/>
+    <item name="translation_y_animator_tag" type="id"/>
+    <item name="translation_z_animator_end_value_tag" type="id"/>
+    <item name="translation_z_animator_start_value_tag" type="id"/>
+    <item name="translation_z_animator_tag" type="id"/>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="config_activityDefaultDur" type="integer">@*android:integer/config_activityDefaultDur</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="kg_carousel_angle">75</integer>
+    <integer name="kg_glowpad_rotation_offset">0</integer>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <integer name="notification_panel_layout_gravity">0x37</integer>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/config.xml -->
+    <eat-comment/>
+    <integer name="recents_alt_tab_key_delay">200</integer>
+    <integer name="recents_animate_lock_to_app_button_long_duration">300</integer>
+    <integer name="recents_animate_lock_to_app_button_short_duration">150</integer>
+    <integer name="recents_animate_task_bar_enter_delay">275</integer>
+    <integer name="recents_animate_task_bar_enter_duration">225</integer>
+    <integer name="recents_animate_task_bar_exit_duration">125</integer>
+    <integer name="recents_animate_task_enter_from_home_delay">150</integer>
+    <integer name="recents_animate_task_enter_from_home_duration">250</integer>
+    <integer name="recents_animate_task_enter_from_home_stagger_delay">12</integer>
+    <integer name="recents_animate_task_exit_to_home_duration">225</integer>
+    <integer name="recents_animate_task_stack_scroll_duration">225</integer>
+    <integer name="recents_animate_task_view_remove_duration">250</integer>
+    <integer name="recents_filter_animate_current_views_duration">250</integer>
+    <integer name="recents_filter_animate_new_views_duration">250</integer>
+    <integer name="recents_max_task_stack_view_dim">96</integer>
+    <integer name="recents_nav_bar_scrim_enter_duration">400</integer>
+    <integer name="recents_task_bar_dismiss_delay_seconds">1</integer>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <integer name="standard_notification_panel_layout_gravity">0x31</integer>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="one">1 screen in Overview</item>
+        <item quantity="other">%d screens in Overview</item>
+    </plurals>
+    <string name="accessibility_airplane_mode">Airplane mode.</string>
+    <string name="accessibility_back">Back</string>
+    <string name="accessibility_battery_full">Battery full.</string>
+    <string name="accessibility_battery_level">Battery <ns1:g id="number">%d</ns1:g> percent.</string>
+    <string name="accessibility_battery_one_bar">Battery one bar.</string>
+    <string name="accessibility_battery_three_bars">Battery three bars.</string>
+    <string name="accessibility_battery_two_bars">Battery two bars.</string>
+    <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
+    <string name="accessibility_bluetooth_name">Connected to <ns1:g example="Car Audio" id="bluetooth">%s</ns1:g>.</string>
+    <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
+    <string name="accessibility_brightness">Display brightness</string>
+    <string name="accessibility_camera_button">Camera</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
+    <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
+    <string name="accessibility_clear_all">Clear all notifications.</string>
+    <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
+    <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
+    <string name="accessibility_data_connection_1x">1 X</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
+    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_data_one_bar">Data one bar.</string>
+    <string name="accessibility_data_signal_full">Data signal full.</string>
+    <string name="accessibility_data_three_bars">Data three bars.</string>
+    <string name="accessibility_data_two_bars">Data two bars.</string>
+    <string name="accessibility_desc_connected">Connected.</string>
+    <string name="accessibility_desc_connecting">Connecting.</string>
+    <string name="accessibility_desc_lock_screen">Lock screen.</string>
+    <string name="accessibility_desc_notification_shade">Notification shade.</string>
+    <string name="accessibility_desc_off">Off.</string>
+    <string name="accessibility_desc_on">On.</string>
+    <string name="accessibility_desc_quick_settings">Quick settings.</string>
+    <string name="accessibility_desc_recent_apps">Overview.</string>
+    <string name="accessibility_desc_settings">Settings</string>
+    <string name="accessibility_gps_acquiring">GPS acquiring.</string>
+    <string name="accessibility_gps_enabled">GPS enabled.</string>
+    <string name="accessibility_home">Home</string>
+    <string name="accessibility_ime_switch_button">Switch input method button.</string>
+    <string name="accessibility_location_active">Location requests active</string>
+    <string name="accessibility_menu">Menu</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
+    <string name="accessibility_multi_user_switch_switcher">Switch user</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user <ns1:g example="John Doe" id="current_user_name">%s</ns1:g></string>
+    <string name="accessibility_no_battery">No battery.</string>
+    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_phone">No phone.</string>
+    <string name="accessibility_no_signal">No signal.</string>
+    <string name="accessibility_no_sim">No SIM.</string>
+    <string name="accessibility_no_wifi">Wifi disconnected.</string>
+    <string name="accessibility_no_wimax">No WiMAX.</string>
+    <string name="accessibility_not_connected">Not connected.</string>
+    <string name="accessibility_notification_dismissed">Notification dismissed.</string>
+    <string name="accessibility_notifications_button">Notifications.</string>
+    <string name="accessibility_one_bar">One bar.</string>
+    <string name="accessibility_phone_button">Phone</string>
+    <string name="accessibility_phone_one_bar">Phone one bar.</string>
+    <string name="accessibility_phone_signal_full">Phone signal full.</string>
+    <string name="accessibility_phone_three_bars">Phone three bars.</string>
+    <string name="accessibility_phone_two_bars">Phone two bars.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Airplane mode turned off.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Airplane mode turned on.</string>
+    <string name="accessibility_quick_settings_airplane_off">Airplane mode off.</string>
+    <string name="accessibility_quick_settings_airplane_on">Airplane mode on.</string>
+    <string name="accessibility_quick_settings_alarm">Alarm set for <ns1:g example="Wed 3:30 PM" id="time">%s</ns1:g>.</string>
+    <string name="accessibility_quick_settings_battery">Battery <ns1:g example="50% charging" id="state">%s</ns1:g>.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth turned off.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth turned on.</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth connected.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth connecting.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth off.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth on.</string>
+    <string name="accessibility_quick_settings_close">Close panel.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Color inversion turned off.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Color inversion turned on.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Flashlight turned off.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Flashlight turned on.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Flashlight off.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Flashlight on.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Mobile hotspot turned off.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
+    <string name="accessibility_quick_settings_less_time">Less time.</string>
+    <string name="accessibility_quick_settings_location_changed_off">Location reporting turned off.</string>
+    <string name="accessibility_quick_settings_location_changed_on">Location reporting turned on.</string>
+    <string name="accessibility_quick_settings_location_off">Location reporting off.</string>
+    <string name="accessibility_quick_settings_location_on">Location reporting on.</string>
+    <string name="accessibility_quick_settings_mobile">Mobile <ns1:g example="Three bars" id="signal">%1$s</ns1:g>. <ns1:g example="4G" id="type">%2$s</ns1:g>. <ns1:g example="T-Mobile" id="network">%3$s</ns1:g>.</string>
+    <string name="accessibility_quick_settings_more_time">More time.</string>
+    <string name="accessibility_quick_settings_user">User <ns1:g example="John Doe" id="user">%s</ns1:g>.</string>
+    <string name="accessibility_quick_settings_wifi"><ns1:g example="Three bars" id="signal">%1$s</ns1:g>.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
+    <string name="accessibility_recent">Overview</string>
+    <string name="accessibility_recents_item_dismissed"><ns1:g example="Calendar" id="app">%s</ns1:g> dismissed.</string>
+    <string name="accessibility_recents_item_launched">Starting <ns1:g example="Calendar" id="app">%s</ns1:g>.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Dismiss <ns1:g example="Calendar" id="app">%s</ns1:g>.</string>
+    <string name="accessibility_remove_notification">Clear notification.</string>
+    <string name="accessibility_ringer_silent">Ringer silent.</string>
+    <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
+    <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
+    <string name="accessibility_rotation_lock_off_changed">Screen will now rotate automatically.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
+    <string name="accessibility_search_light">Search</string>
+    <string name="accessibility_settings_button">System settings.</string>
+    <string name="accessibility_signal_full">Signal full.</string>
+    <string name="accessibility_three_bars">Three bars.</string>
+    <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
+    <string name="accessibility_two_bars">Two bars.</string>
+    <string name="accessibility_unlock_button">Unlock</string>
+    <string name="accessibility_wifi_name">Connected to <ns1:g example="Home Network" id="wifi">%s</ns1:g>.</string>
+    <string name="accessibility_wifi_off">Wifi off.</string>
+    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
+    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
+    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
+    <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
+    <string name="accessibility_zero_bars">Zero bars.</string>
+    <string name="always_use_accessory">Use by default for this USB accessory</string>
+    <string name="always_use_device">Use by default for this USB device</string>
+    <string name="app_label">System UI</string>
+    <string name="battery_level_template"><ns1:g example="45" id="level">%d</ns1:g>%%</string>
+    <string name="battery_low_percent_format"><ns1:g id="number">%d%%</ns1:g> remaining</string>
+    <string name="battery_low_percent_format_saver_started"><ns1:g id="number">%d%%</ns1:g> remaining. Battery saver is on.</string>
+    <string name="battery_low_title">Battery is low</string>
+    <string name="battery_low_why">Settings</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
+    <string name="battery_saver_confirmation_ok">Turn on</string>
+    <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
+    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
+    <string name="battery_saver_notification_text">Reduces performance and background data</string>
+    <string name="battery_saver_notification_title">Battery saver is on</string>
+    <string name="battery_saver_start_action">Turn on battery saver</string>
+    <string name="bluetooth_tethered">Bluetooth tethered</string>
+    <string name="camera_hint">Swipe left for camera</string>
+    <string name="camera_label">open camera</string>
+    <string name="clear_all_notifications_text">Clear all</string>
+    <string name="compat_mode_off">Stretch to fill screen</string>
+    <string name="compat_mode_on">Zoom to fill screen</string>
+    <string name="data_usage_disabled_dialog">Your device turned off data because it reached the limit you set.\n\nTurning it back on may lead to charges from your carrier.</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
+    <string name="data_usage_disabled_dialog_enable">Turn on data</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
+    <string name="data_usage_disabled_dialog_title">Data is off</string>
+    <string name="description_direction_left">"Slide left for <ns1:g example="Unlock" id="target_description">%s</ns1:g>.</string>
+    <string name="description_direction_up">Slide up for <ns1:g example="Unlock" id="target_description">%s</ns1:g>.</string>
+    <string name="description_target_search">Search</string>
+    <string name="dessert_case">Dessert Case</string>
+    <string name="device_owned_footer">Device may be monitored</string>
+    <string name="disable_vpn">Disable VPN</string>
+    <string name="disconnect_vpn">Disconnect VPN</string>
+    <string name="empty_shade_text">No notifications</string>
+    <string name="ethernet_label">Ethernet</string>
+    <string name="expanded_header_battery_charged">Charged</string>
+    <string name="expanded_header_battery_charging">Charging</string>
+    <string name="expanded_header_battery_charging_with_time"><ns1:g example="2 hrs 25 min" id="charging_time">%s</ns1:g> until full</string>
+    <string name="expanded_header_battery_not_charging">Not charging</string>
+    <string name="gps_notification_found_text">Location set by GPS</string>
+    <string name="gps_notification_searching_text">Searching for GPS</string>
+    <string name="guest_exit_guest">Remove guest</string>
+    <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
+    <string name="guest_exit_guest_dialog_remove">Remove</string>
+    <string name="guest_exit_guest_dialog_title">Remove guest?</string>
+    <string name="guest_new_guest">Add guest</string>
+    <string name="guest_nickname">Guest</string>
+    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
+    <string name="guest_wipe_session_message">Do you want to continue your session?</string>
+    <string name="guest_wipe_session_title">Welcome back, guest!</string>
+    <string name="guest_wipe_session_wipe">Start over</string>
+    <string name="hidden_notifications_cancel">No thanks</string>
+    <string name="hidden_notifications_setup">Set up</string>
+    <string name="hidden_notifications_text">See them before you unlock</string>
+    <string name="hidden_notifications_title">Get notifications faster</string>
+    <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
+    <string name="interruption_level_all">All</string>
+    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_priority">Priority</string>
+    <string name="invalid_charger">USB charging not supported.\nUse only the supplied charger.</string>
+    <string name="invalid_charger_text">Use only the supplied charger.</string>
+    <string name="invalid_charger_title">USB charging not supported.</string>
+    <string name="keyguard_indication_charging_time">Charging (<ns1:g example="4 hours and 2 minutes" id="charging_time_left">%s</ns1:g> until full)</string>
+    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
+    <string name="keyguard_more_overflow_text">+<ns1:g example="5" id="number_of_notifications">%d</ns1:g></string>
+    <string name="keyguard_unlock">Swipe up to unlock</string>
+    <string name="label_view">View</string>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/lland_strings.xml -->
+    <eat-comment/>
+    <string name="lland">L Land</string>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="media_projection_action_text">Start now</string>
+    <string name="media_projection_dialog_text"><ns1:g example="Hangouts" id="app_seeking_permission">%s</ns1:g> will start capturing everything that\'s displayed on your screen.</string>
+    <string name="media_projection_remember_text">Don\'t show again</string>
+    <string name="monitoring_description_device_and_profile_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\nYour profile is managed by:\n<ns1:g id="organization">%2$s</ns1:g>\n\nYour administrator can monitor your device and network activity, including emails, apps and secure websites.\n\nFor more information, contact your administrator.</string>
+    <string name="monitoring_description_device_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator can monitor your device and network activity, including emails, apps and secure websites.\n\nFor more information, contact your administrator.</string>
+    <string name="monitoring_description_legacy_vpn">You\'re connected to a VPN (\"<ns1:g id="application">%1$s</ns1:g>\").\n\nYour VPN service provider can monitor your device and network activity including emails, apps, and secure websites.</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\nYour profile is managed by:\n<ns1:g id="organization">%2$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you\'re connected to a VPN (\"<ns1:g id="application">%3$s</ns1:g>\"). Your VPN service provider can monitor network activity too.</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you\'re connected to a VPN (\"<ns1:g id="application">%2$s</ns1:g>\"). Your VPN service provider can monitor network activity too.</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">This profile is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you\'re connected to a VPN (\"<ns1:g id="application">%2$s</ns1:g>\"). Your VPN service provider can monitor network activity too.</string>
+    <string name="monitoring_description_profile_owned">This profile is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator can monitor your device and network activity, including emails, apps and secure websites.\n\nFor more information, contact your administrator.</string>
+    <string name="monitoring_description_vpn">You gave \"<ns1:g id="application">%1$s</ns1:g>\" permission to set up a VPN connection.\n\nThis app can monitor your device and network activity, including emails, apps and secure websites.</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\nYour profile is managed by:\n<ns1:g id="organization">%2$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you gave \"<ns1:g id="application">%3$s</ns1:g>\" permission to set up a VPN connection. This app can monitor network activity too.</string>
+    <string name="monitoring_description_vpn_device_owned">This device is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you gave \"<ns1:g id="application">%2$s</ns1:g>\" permission to set up a VPN connection. This app can monitor network activity too.</string>
+    <string name="monitoring_description_vpn_profile_owned">This profile is managed by:\n<ns1:g id="organization">%1$s</ns1:g>\n\nYour administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.\n\nAlso, you gave \"<ns1:g id="application">%2$s</ns1:g>\" permission to set up a VPN connection. This app can monitor network activity too.</string>
+    <string name="monitoring_title">Network monitoring</string>
+    <string name="monitoring_title_device_owned">Device monitoring</string>
+    <string name="monitoring_title_profile_owned">Profile monitoring</string>
+    <string name="muted_by">Muted by <ns1:g id="third_party">%1$s</ns1:g></string>
+    <string name="notification_hidden_text">Contents hidden</string>
+    <string name="notification_tap_again">Touch again to open</string>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="ok" type="string">@*android:string/ok</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="phone_hint">Swipe right for phone</string>
+    <string name="phone_label">open phone</string>
+    <string name="profile_owned_footer">Profile may be monitored</string>
+    <string name="quick_settings_airplane_mode_label">Airplane mode</string>
+    <string name="quick_settings_battery_charged_label">Charged</string>
+    <string name="quick_settings_battery_charging_label">Charging, <ns1:g id="number">%d</ns1:g><ns1:g id="percent">%%</ns1:g></string>
+    <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (<ns1:g id="number">%d</ns1:g> Devices)</string>
+    <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_label">Brightness</string>
+    <string name="quick_settings_cast_detail_empty_text">No devices available</string>
+    <string name="quick_settings_cast_device_default_description">Ready to cast</string>
+    <string name="quick_settings_cast_device_default_name">Unnamed device</string>
+    <string name="quick_settings_cast_title">Cast screen</string>
+    <string name="quick_settings_casting">Casting</string>
+    <string name="quick_settings_cellular_detail_data_limit"><ns1:g example="2.0 GB" id="data_limit">%s</ns1:g> limit</string>
+    <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
+    <string name="quick_settings_cellular_detail_data_used"><ns1:g example="2.0 GB" id="data_used">%s</ns1:g> used</string>
+    <string name="quick_settings_cellular_detail_data_warning"><ns1:g example="2.0 GB" id="data_limit">%s</ns1:g> warning</string>
+    <string name="quick_settings_cellular_detail_over_limit">Limit reached – data usage paused</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
+    <string name="quick_settings_cellular_detail_title">Cellular data</string>
+    <string name="quick_settings_color_space_label">Color correction mode</string>
+    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connecting">Connecting...</string>
+    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_flashlight_label">Flashlight</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_ime_label">Input Method</string>
+    <string name="quick_settings_inversion_label">Invert colors</string>
+    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_location_off_label">Location Off</string>
+    <string name="quick_settings_media_device_label">Media device</string>
+    <string name="quick_settings_more_settings">More settings</string>
+    <string name="quick_settings_notifications_label">Notifications</string>
+    <string name="quick_settings_rotation_locked_label">Rotation locked</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+    <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
+    <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
+    <string name="quick_settings_settings_label">Settings</string>
+    <string name="quick_settings_tethering_label">Tethering</string>
+    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_user_label">Me</string>
+    <string name="quick_settings_user_new_user">New user</string>
+    <string name="quick_settings_user_title">User</string>
+    <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_no_network">No Network</string>
+    <string name="quick_settings_wifi_not_connected">Not Connected</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="recents_app_info_button_label">Application Info</string>
+    <string name="recents_empty_message">Your recent screens appear here</string>
+    <string name="recents_launch_error_message">Could not start <ns1:g example="Calendar" id="app">%s</ns1:g>.</string>
+    <string name="recents_lock_to_app_button_label">lock to app</string>
+    <string name="recents_search_bar_label">search</string>
+    <string name="screenshot_failed_text">Can\'t take screenshot due to limited storage space, or it isn\'t allowed by the app or your organization.</string>
+    <string name="screenshot_failed_title">Couldn\'t capture screenshot.</string>
+    <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+    <string name="screenshot_saved_title">Screenshot captured.</string>
+    <string name="screenshot_saving_text">Screenshot is being saved.</string>
+    <string name="screenshot_saving_ticker">Saving screenshot\u2026</string>
+    <string name="screenshot_saving_title">Saving screenshot\u2026</string>
+    <string name="speed_bump_explanation">Less urgent notifications below</string>
+    <string name="ssl_ca_cert_warning">Network may\nbe monitored</string>
+    <string name="start_dreams">Daydream</string>
+    <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
+    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
+    <string name="status_bar_latest_events_title">Notifications</string>
+    <string name="status_bar_network_name_separator" translatable="false">|</string>
+    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
+    <string name="status_bar_notification_app_settings_title"><ns1:g example="Calendar" id="app_name">%s</ns1:g> settings</string>
+    <string name="status_bar_notification_inspect_item_title">Notification settings</string>
+    <string name="status_bar_ongoing_events_title">Ongoing</string>
+    <string name="status_bar_recent_inspect_item_title">App info</string>
+    <string name="status_bar_recent_remove_item_title">Remove from list</string>
+    <string name="status_bar_settings_airplane">Airplane mode</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+    <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
+    <string name="status_bar_settings_battery_meter_format" translatable="false">
+        <ns1:g id="number">%d</ns1:g><ns1:g id="percent">%%</ns1:g>
+    </string>
+    <string name="status_bar_settings_mute_label">MUTE</string>
+    <string name="status_bar_settings_notifications">Notifications</string>
+    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_signal_meter_disconnected">
+        No Internet connection
+    </string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/alias.xml -->
+    <eat-comment/>
+    <item name="system_ui_date_pattern" type="string">"MM:HH:SS"</item>
+    <!-- From: file:/D:/android_github/StackOverView-master/lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_usb_accessory">USB accessory</string>
+    <string name="unlock_label">unlock</string>
+    <string name="usb_accessory_confirm_prompt">Open <ns1:g id="activity">%1$s</ns1:g> when this USB accessory is connected?</string>
+    <string name="usb_accessory_permission_prompt">Allow the app <ns1:g id="application">%1$s</ns1:g> to access the USB accessory?</string>
+    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at <ns1:g id="url">%1$s</ns1:g></string>
+    <string name="usb_debugging_always">Always allow from this computer</string>
+    <string name="usb_debugging_message">The computer\'s RSA key fingerprint is:\n<ns1:g id="fingerprint">%1$s</ns1:g></string>
+    <string name="usb_debugging_title">Allow USB debugging?</string>
+    <string name="usb_device_confirm_prompt">Open <ns1:g id="activity">%1$s</ns1:g> when this USB device is connected?</string>
+    <string name="usb_device_permission_prompt">Allow the app <ns1:g id="application">%1$s</ns1:g> to access the USB device?</string>
+    <string name="usb_preference_title">USB file transfer options</string>
+    <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
+    <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
+    <string name="user_add_user">Add user</string>
+    <string msgid="1511354412249044381" name="user_add_user_message_short">When you add a new user, that person needs to set up their space.\n\nAny user can update apps for all other users. </string>
+    <string msgid="2108112641783146007" name="user_add_user_title">Add new user?</string>
+    <string name="user_new_user_name">New user</string>
+    <string name="vpn_footer">Network may be monitored</string>
+    <string name="zen_alarm_information_day_time">Your next alarm is <ns1:g example="Fri 5:00 PM" id="alarm_day_and_time">%s</ns1:g></string>
+    <string name="zen_alarm_information_time">Your next alarm is at <ns1:g example="5:00 PM" id="alarm_time">%s</ns1:g></string>
+    <string name="zen_alarm_warning">You won\'t hear your alarm at <ns1:g example="5:00 PM" id="alarm_time">%s</ns1:g></string>
+    <string name="zen_important_interruptions">Priority interruptions only</string>
+    <string name="zen_mode_and_condition"><ns1:g example="Priority interruptions only" id="zen_mode">%1$s</ns1:g>. <ns1:g example="For one hour" id="exit_condition">%2$s</ns1:g></string>
+    <string name="zen_no_interruptions">No interruptions</string>
+    <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
+</resources>

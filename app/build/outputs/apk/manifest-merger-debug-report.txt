@@ -1,0 +1,50 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:19:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:19:11
+	package
+		ADDED from AndroidManifest.xml:20:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:22:5
+	android:label
+		ADDED from AndroidManifest.xml:27:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:25:9
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:26:9
+	android:allowClearUserData
+		ADDED from AndroidManifest.xml:24:9
+	android:persistent
+		ADDED from AndroidManifest.xml:23:9
+activity#com.wirelesspienetwork.overviewexample.OverviewActivity
+ADDED from AndroidManifest.xml:30:9
+	android:stateNotNeeded
+		ADDED from AndroidManifest.xml:33:19
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:32:19
+	android:name
+		ADDED from AndroidManifest.xml:30:19
+	android:launchMode
+		ADDED from AndroidManifest.xml:31:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:34:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:35:17
+	android:name
+		ADDED from AndroidManifest.xml:35:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:36:17
+	android:name
+		ADDED from AndroidManifest.xml:36:27
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from StackOverView-master:lib:unspecified:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
